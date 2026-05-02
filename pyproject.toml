@@ -1,0 +1,12 @@
+[project]
+name = "epi-method-agent"
+version = "1.0.0"
+description = "RWE methodological expert agent - epidemiology, causal inference, bias diagnosis"
+requires-python = ">=3.10"
+dependencies = [
+    "mcp[cli]>=1.27.0",
+]
+
+[build-system]
+requires = ["setuptools>=68.0"]
+build-backend = "setuptools.backends._legacy:_Backend"
