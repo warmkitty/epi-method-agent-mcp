@@ -24,7 +24,7 @@ Epi-Method Agent 是一个基于 MCP（Model Context Protocol）的流行病学�
 #### 1. 克隆仓库
 
 ```bash
-git clone <仓库URL> %USERPROFILE%\.workbuddy\mcp-servers\epi-method-agent
+git clone https://github.com/warmkitty/epi-method-agent-mcp.git %USERPROFILE%\.workbuddy\mcp-servers\epi-method-agent
 ```
 
 #### 2. 安装依赖
