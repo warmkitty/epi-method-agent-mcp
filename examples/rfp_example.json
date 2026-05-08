@@ -1,0 +1,7 @@
+{
+  "disease": "梗阻性肥厚型心肌病(oHCM)",
+  "intervention": "玛伐凯泰(mavacamten)",
+  "client_need": "评估真实世界治疗模式、医疗资源消耗和潜在预算影响分析",
+  "data_source": "北京医保数据",
+  "target_use": "医保准入"
+}

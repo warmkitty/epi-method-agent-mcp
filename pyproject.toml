@@ -5,6 +5,7 @@ description = "RWE methodological expert agent - epidemiology, causal inference,
 requires-python = ">=3.10"
 dependencies = [
     "mcp[cli]>=1.27.0",
+    "openai>=1.0.0",
 ]
 
 [build-system]

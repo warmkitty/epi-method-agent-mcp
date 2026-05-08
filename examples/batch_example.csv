@@ -1,0 +1,4 @@
+label,disease,intervention,client_need,data_source,target_use
+oHCM-玛伐凯泰,梗阻性肥厚型心肌病(oHCM),玛伐凯泰(mavacamten),评估真实世界治疗模式和医疗资源消耗,北京医保数据,医保准入
+T2D-SGLT2i,2型糖尿病(T2D),SGLT2抑制剂,心血管安全性评估(对比DPP-4抑制剂),全国医保数据,安全性研究
+NSCLC-IO,非小细胞肺癌(NSCLC),PD-1抑制剂,真实世界疗效与生存分析,EMR数据,RWE证据
